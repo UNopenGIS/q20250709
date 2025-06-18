@@ -4,7 +4,6 @@
 - @hfu のプレゼンは、Markdown で作成して iA presenter で映写することを想定する。
   - Teams には Mac を使って「外部から」接続することになる。
   - iA presenter 用のテンプレートを ia-template.md に置いておく。
-- 
 
 ```
          山頂（転換点・製品化への壁）
