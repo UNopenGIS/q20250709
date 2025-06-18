@@ -1,0 +1,6 @@
+- JICA 本部の1F会議室でハイブリッド形式で行う。
+- 午後の2時間をかけて、BOFのような形で行う。@hfu が 30 分おきに10分話す。
+- @hfu のプレゼンは、Markdown で作成して iA presenter で映写することを想定する。
+  - Teams には Mac を使って「外部から」接続することになる。
+  - iA presenter 用のテンプレートを ia-template.md に置いておく。
+- 
